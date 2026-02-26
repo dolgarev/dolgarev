@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+After years of working with Meteor.js, I've gathered many small, handy packages from my various projects. I’ve consolidated them all under the [Meteor Bits](https://github.com/meteor-bits) organization.
+
 <!--
 **dolgarev/dolgarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
