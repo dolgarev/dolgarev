@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-After years of working with Meteor.js, I've gathered many small, handy packages from my various projects. I’ve consolidated them all under the [Meteor Bits](https://github.com/meteor-bits) organization.
+I’ve been working with the Meteor.js framework for several years now. Over time, I’ve accumulated a collection of small, handy packages that I used in my daily work, which I’ve now consolidated under a dedicated organization: [Meteor Bits](https://github.com/meteor-bits).
 
-These days, I’m dedicating much of my time to vibe-coding, recreating from memory the old games I loved and played as a child. It’s been a great way to revisit those classics while bringing them to life again through code.
+These days, I’m dedicating much of my time to vibe-coding, recreating from memory the old games I loved and played as a child. It’s been a great way to revisit those classics while bringing them to life again through code. And for some reason, I’ve decided to do all of this using the Ada programming language...
 
 <!--
 **dolgarev/dolgarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
