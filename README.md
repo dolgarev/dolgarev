@@ -11,6 +11,7 @@ These days, I’m dedicating much of my time to **vibe-coding** — recreating f
 
 It’s been a great way to revisit those classics while bringing them to life again through code. And for some reason, I’ve decided to do all of this using the **Ada** programming language... 💾
 
+<!--
 ---
 
 ### 🛠 Tech Stack & Tools
@@ -18,6 +19,7 @@ It’s been a great way to revisit those classics while bringing them to life ag
 * **Modern Web:** Node.js, Meteor.js, MongoDB, Redis
 * **The "Retro" Side:** Ada, Low-level logic, Game mechanics
 * **Focus:** Maintainable packages, clean architecture, and 8-bit nostalgia
+-->
 
 ---
 
