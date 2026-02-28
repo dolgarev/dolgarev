@@ -23,6 +23,7 @@ It’s been a great way to revisit those classics while bringing them to life ag
 
 ---
 
+### 📊 Stats
 [![wakatime](https://wakatime.com/badge/user/a09d21b6-1c2e-4c21-8593-cb080fe71db1.svg)](https://wakatime.com/@a09d21b6-1c2e-4c21-8593-cb080fe71db1)
 
 <!--
